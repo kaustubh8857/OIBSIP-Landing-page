@@ -4,7 +4,7 @@
 This project is a **responsive landing page** created as part of the **Oasis Infobyte Web Development Internship**.
 
 ## 🌐 Live Demo
-(Add your Netlify / Render / GitHub Pages link here)
+https://aquamarine-macaron-b8e0a8.netlify.app
 
 ## 💻 Technologies Used
 - HTML5
